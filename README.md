@@ -1,2 +1,7 @@
-# sdev138.github.io
-Personal Website github pages deployment
+npm install gh-pages --save-dev
+
+push
+
+npm run deploy
+
+yarn start
