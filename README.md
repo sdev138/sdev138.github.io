@@ -1,3 +1,7 @@
-This is a react website meant to display and showcase my projects and skills
+npm install gh-pages --save-dev
 
-Testing Deployment with updated package.json file
+push
+
+npm run deploy
+
+yarn start
