@@ -1,7 +1,1 @@
-npm install gh-pages --save-dev
-
-push
-
-npm run deploy
-
-yarn start
+Personal Website acting as both a portfolio and information site
