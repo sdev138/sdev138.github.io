@@ -38,7 +38,11 @@ export const About = () => {
         </Row>
         <Row className=" sec_sp">
           <Col lg="5">
-            <h3 className="color_sec py-4">education</h3>
+            <h3 className="color_sec py-4">
+              <a href="https://example.com/education" target="_blank" rel="noopener noreferrer">
+                education
+              </a>
+            </h3>
           </Col>
           <Col lg="7">
             <table className="table caption-top">

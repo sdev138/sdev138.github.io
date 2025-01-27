@@ -1,4 +1,5 @@
 import sdevImage from './/assets/images/sdevCropped.jpg';
+import devimImage from './assets/images/DEVim.png';
 
 const logotext = "Samarth Dev";
 const meta = {
@@ -100,7 +101,7 @@ const researcherExperience = [
 ];
 
 const dataportfolio = [{
-        img: "/assets/images/DEVim.png",
+        img: devimImage,
         description: "Neovim distribution",
         link: "https://github.com/sdev138/DEVim",
     },
@@ -109,57 +110,7 @@ const dataportfolio = [{
         description: "Linux Kernel",
         link: "",
     },
-    // {
-    //     img: "https://picsum.photos/400/800/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/700/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-
-    // {
-    //     img: "https://picsum.photos/400/600/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/300/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/550/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
-    // {
-    //     img: "https://picsum.photos/400/?grayscale",
-    //     description: "The wisdom of life consists in the elimination of non-essentials.",
-    //     link: "#",
-    // },
+    // Example Input for data portfolio
     // {
     //     img: "https://picsum.photos/400/700/?grayscale",
     //     description: "The wisdom of life consists in the elimination of non-essentials.",
@@ -183,7 +134,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/sdev138", 
     linkedin: "https://www.linkedin.com/in/samarth-dev/",
-    scholar: "https://dev-portfolio-gamma-one.vercel.app/",
+    scholar: "https://scholar.google.com/citations?user=ByJ5jz4AAAAJ&hl=en",
 };
 export {
     meta,

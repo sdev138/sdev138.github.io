@@ -110,13 +110,13 @@ export const ContactUs = () => {
                 ""
               )} */}
               <strong>linkedin:</strong>{" "}
-              <a href={`mailto:${contactConfig.linkedin}`}>
-                {contactConfig.linkedin}
+              <a href={contactConfig.linkedin} target="_blank" rel="noopener noreferrer">
+                linkedin
               </a>
               <br/><br/>
               <strong>github:</strong>{" "}
-              <a href={`mailto:${contactConfig.github}`}>
-                {contactConfig.github}
+              <a href={contactConfig.github} target="_blank" rel="noopener noreferrer">
+                github
               </a>
             </address>
             <p>{contactConfig.description}</p>

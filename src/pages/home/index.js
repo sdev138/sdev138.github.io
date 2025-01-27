@@ -21,11 +21,13 @@ export const Home = () => {
               <div className="col-lg-6 text-container">
               <div className="align-self-center">
               <div className="intro mx-auto">
+                {/* Importing the self portrait to the front page */}
                 <img width="125px" alt="" src={sdevImage} style={{ borderRadius: '50%'}} />
                 <h4 className="mb-1x">{introdata.title}</h4>
                 <h5 className="mb-1x">{introdata.title2}</h5>
                 <br/>
                 <h1 className="fluidz-48 mb-1x">
+                  {/* Writing animation on the front page of the website */}
                   <Typewriter
                     options={{
                       strings: [
