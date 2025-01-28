@@ -5,6 +5,7 @@ npm install gh-pages --save-dev
 
 push
 
+Use the following the command to commit and push changes to production on github pages:
 npm run deploy
 
 yarn start

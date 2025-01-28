@@ -15,7 +15,8 @@
         "react-scripts": "^5.0.1",
         "react-transition-group": "^4.4.2",
         "typewriter-effect": "^2.18.2",
-        "web-vitals": "^3.1.1"
+        "web-vitals": "^3.1.1",
+        "yarn": "^1.22.22"
     },
     "scripts": {
         "predeploy": "npm run build",
@@ -44,6 +45,6 @@
         ]
     },
     "devDependencies": {
-        "gh-pages": "^6.1.1"
+        "gh-pages": "^6.3.0"
     }
 }
